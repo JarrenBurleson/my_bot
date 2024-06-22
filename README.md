@@ -1,4 +1,4 @@
-##Mobile Robot Project
+## Mobile Robot Project
 This repository contains a project for building a low-cost mobile robot using Raspberry Pi, Arduino, and ROS. Key features include:
 
 This robot will have or does have the following capabilities.
